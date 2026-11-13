@@ -1,6 +1,6 @@
 /*Vera González Martínez
 Ejercicio
-programa1.c*/
+programa2.c*/
 
 #include<stdio.h>
 int main()
