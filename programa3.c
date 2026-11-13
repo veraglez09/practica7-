@@ -1,3 +1,7 @@
+/*Vera González Martínez
+Ejercicio
+programa3.c*/
+
 #include <stdio.h>
 int main()
 {
